@@ -111,15 +111,15 @@ Several evaluation methods were used to assess the model.
 
 The training history was analysed using accuracy and loss curves to monitor learning behaviour and identify potential overfitting.
 
-![Accuracy Curve](images/accuracy_curve.png)
+![Accuracy Curve](images/Training_and_Validation_Accuracy.png)
 
-![Loss Curve](images/loss_curve.png)
+![Loss Curve](images/Training_and_Validation_Loss.png)
 
 ### Confusion Matrix
 
 A confusion matrix was generated to examine the distribution of correct and incorrect predictions across the identity classes.
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/Confusion_Matrix.png)
 
 ### Classification Report
 
